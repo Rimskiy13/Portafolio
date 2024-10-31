@@ -21,7 +21,7 @@ import git from './../Images/github.png';
 
 function Experience() {
   return (
-    <div className="experience text-center px-5 sm:px-8 lg:px-20 xl:px-40 gap-5 lg:gap-10" id="experience">
+    <div className="experience text-center py-5 sm:py-5 lg:py-15 xl:py-30 px-5 sm:px-8 lg:px-20 xl:px-40 gap-5 lg:gap-10" id="experience">
       <div className="text-gray-900 text-3xl sm:text-4xl md:text-5xl font-bold">Conocimientos</div>
       
       <div className="grid grid-cols-1 gap-8 md:grid-cols-2 py-10">
