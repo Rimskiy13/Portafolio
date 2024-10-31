@@ -2,7 +2,7 @@ import About from './Components/AboutMe'
 import Header from './Components/Header'
 import Experience from './Components/Expirience'
 import Projects from './Components/Projects'
-import Contact from './Components/contact'
+import Contact from './Components/Contact'
 
 function App() {
   return (
