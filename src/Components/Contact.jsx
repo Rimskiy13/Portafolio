@@ -1,4 +1,4 @@
-import gmail from './../Images/gmail.png';
+import gmail from './../Images/ggmail.png';
 import linkedin from './../Images/linkedin.png';
 import WhatsApp from './../Images/whatsapp.png';
 
