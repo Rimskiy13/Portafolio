@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div className="about py-5 lg:p-32 pb-0 text-center">
       <div className="text-gray-900 text-4xl sm:text-5xl font-bold">Contáctame</div>
-      <div className="flex justify-center items-center p-5 sm:p-10 w-full sm:w-auto">
+      <div className="flex justify-center items-center p-5 sm:p-10 sm:w-max">
         <div className="ring-1 rounded-3xl p-5 sm:p-10 flex flex-col sm:flex-row gap-5 sm:gap-10 bg-gray-100 ring-stone-500 w-max">
           
           {/* LinkedIn */}
