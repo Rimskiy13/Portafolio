@@ -1,5 +1,4 @@
-import gmail from './../Images/ggmail.png';
-import g from './../Images/ggmail.png'
+import gmail from './../Images/gmail.png';
 import linkedin from './../Images/linkedin.png';
 import WhatsApp from './../Images/whatsapp.png';
 
@@ -21,7 +20,7 @@ function Contact() {
           {/* Gmail */}
           <div className="flex flex-col items-center sm:flex-row sm:items-center">
             <a target='_blank' href='mailto:romanch422@gmail.com'>
-              <img src={g} className="h-8 sm:h-10" alt="Gmail" />
+              <img src={gmail} className="h-8 sm:h-10" alt="Gmail" />
             </a>
             <div className="hover:text-red-700 transition text-lg sm:text-xl lg:text-3xl font-semibold px-2">romanch422@gmail.com</div>
           </div>
