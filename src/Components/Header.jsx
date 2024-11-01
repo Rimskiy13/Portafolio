@@ -2,12 +2,13 @@ import linkedin from './../Images/linkedin.png';
 import AcercaDeMi from './../Images/Perfil2.png';
 import Mail from './../Images/gmail.png';
 import WhatsApp from './../Images/whatsapp.png';
+import pdf from './../Images/cv.pdf'
 
 function Header() {
 
   function descargarCV() {
     const link = document.createElement('a');
-    link.href = './../Images/Román Chávez Guillén - cv.pdf';
+    link.href = pdf;
     link.download = 'Román Chávez Guillén - CV.pdf';
     link.click();
   }
