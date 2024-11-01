@@ -9,8 +9,9 @@ function Header() {
   function descargarCV() {
     const link = document.createElement('a');
     link.href = pdf;
-    link.download = 'Román Chávez Guillén - CV.pdf';
+    link.download = 'Roman Chavez Guillen - CV.pdf';
     link.click();
+    window.open(pdf,'_blank');
   }
 
   return (
