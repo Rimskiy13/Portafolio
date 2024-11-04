@@ -2,7 +2,7 @@ import linkedin from './../Images/linkedin.png';
 import AcercaDeMi from './../Images/Perfil2.png';
 import Mail from './../Images/gmail.png';
 import WhatsApp from './../Images/whatsapp.png';
-import pdf from './../Images/Roman Chavez Guillen.pdf'
+import pdf from './../Images/Román Chávez Guillén.pdf'
 
 function Header() {
 

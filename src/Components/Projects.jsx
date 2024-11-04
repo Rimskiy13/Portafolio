@@ -14,8 +14,8 @@ function Projects() {
   const [carouselIndex, setCarouselIndex] = useState(0);
   const [isFading, setIsFading] = useState(false);
 
-  const images = [ccent1, ccent2, ccent3, ccent4];
-  const imagesLily = [lily1, lily2, lily3, lily4];
+  const images = [ccent2, ccent1, ccent3, ccent4];
+  const imagesLily = [lily3, lily2, lily1, lily4];
 
   const linkToSEPCI = () => {
     const link = document.createElement('a');
