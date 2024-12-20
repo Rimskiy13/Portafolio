@@ -11,7 +11,7 @@ function Contact() {
           
           {/* LinkedIn */}
           <div className="flex flex-col items-center sm:flex-row sm:items-center">
-            <a target='_blank' href='www.linkedin.com/in/román-chávez-guillén-677887291'>
+            <a target='_blank' href='https://www.linkedin.com/in/rom%C3%A1n-ch%C3%A1vez-guill%C3%A9n-677887291/'>
               <img src={linkedin} className="h-8 sm:h-10" alt="LinkedIn" />
             </a>
             <div className="hover:text-red-700 transition text-lg sm:text-xl lg:text-3xl font-semibold px-2">Román Chávez</div>
