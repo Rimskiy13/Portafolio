@@ -44,7 +44,7 @@ function Header() {
 
         {/* Iconos de redes sociales */}
         <div className="flex justify-center lg:justify-start gap-5 mt-4">
-          <a target='_blank' href='https://www.linkedin.com/in/roman-chavez-677887291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
+          <a target='_blank' href='www.linkedin.com/in/román-chávez-guillén-677887291'>
             <img src={linkedin} className="h-8 sm:h-10" alt="LinkedIn" />
           </a>
           <a target='_blank' href='mailto:romanch422@gmail.com'>
